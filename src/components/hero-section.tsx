@@ -23,7 +23,7 @@ export function HeroSection() {
         </div>
 
         <h1 className="font-serif text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl 2xl:text-8xl text-primary mb-4 sm:mb-6 animate-in slide-in-from-left-full duration-500">
-          {"Sarah & Ahmad"}
+          {"Nata & Fathur"}
         </h1>
 
         <p className="text-base sm:text-lg md:text-xl lg:text-2xl text-primary/60 mb-6 sm:mb-8 animate-in slide-in-from-right-full duration-500">
