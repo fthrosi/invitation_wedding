@@ -28,7 +28,7 @@ export function GallerySection() {
               key={image.id}
               className="overflow-hidden border-2 hover:border-primary transition-all duration-300 hover:shadow-lg group cursor-pointer"
             >
-              <div className="aspect-square w-full bg-red-400 overflow-hidden relative">
+              <div className="aspect-square w-full overflow-hidden relative">
                 <Image
                   src={image.query}
                   alt={`Gallery ${image.id}`}

@@ -17,7 +17,7 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "Undangan Pernikahan - Sarah & Ahmad",
+  title: "Undangan Pernikahan - Nata & Fathur",
   description: "Kami mengundang Anda untuk merayakan hari istimewa kami",
   generator: "Fathur Rosi",
 }
